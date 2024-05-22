@@ -2,7 +2,7 @@
 
 **A Typescript library to generate merkle trees and merkle proofs.**
 
-Well suited for airdrops and similar mechanisms in combination with OpenZeppelin Contracts [`MerkleProof`] utilities.
+Well suited for airdrops and similar mechanisms in combination with the Akita Contracts [`MetaMerkles`] utilities.
 
 [`MerkleProof`]: https://docs.openzeppelin.com/contracts/4.x/api/utils#MerkleProof
 
