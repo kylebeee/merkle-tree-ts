@@ -1,4 +1,4 @@
-# `@openzeppelin/merkle-tree`
+# `@kylebeee/merkle-tree-ts`
 
 **A Typescript library to generate merkle trees and merkle proofs.**
 
