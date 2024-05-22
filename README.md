@@ -4,21 +4,21 @@
 
 Well suited for airdrops and similar mechanisms in combination with the Akita Contracts [`MetaMerkles`] utilities.
 
-[`MerkleProof`]: https://docs.openzeppelin.com/contracts/4.x/api/utils#MerkleProof
+[`MetaMerkles`]: https://github.com/kylebeee/MetaMerkles
 
-[![NPM Package](https://img.shields.io/npm/v/@openzeppelin/merkle-tree.svg)](https://www.npmjs.org/package/@openzeppelin/merkle-tree)
+[![NPM Package](https://img.shields.io/npm/v/@openzeppelin/merkle-tree.svg)](https://www.npmjs.org/package/@kylebeee/merkle-tree-ts)
 [![Coverage](https://codecov.io/github/OpenZeppelin/merkle-tree/branch/master/graph/badge.svg?token=1JMTIEYRZK)](https://codecov.io/github/OpenZeppelin/merkle-tree)
 
 ## Quick Start
 
 ```
-npm install @openzeppelin/merkle-tree
+npm install @kylebeee/merkle-tree-ts
 ```
 
 ### Building a Tree
 
 ```js
-import { StandardMerkleTree } from "@openzeppelin/merkle-tree";
+import { StandardMerkleTree } from "@kylebeee/merkle-tree-ts";
 import fs from "fs";
 
 // (1)
